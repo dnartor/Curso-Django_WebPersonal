@@ -1,2 +1,7 @@
 {
+    "python.linting.pylint":[
+        "--errors-only",
+        "--load-plugins",
+        "pylint_django"
+    ]
 }
